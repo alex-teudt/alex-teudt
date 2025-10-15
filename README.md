@@ -47,4 +47,22 @@
 <p align="center">
   <strong>Tools & Platforms:</strong><br/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="Figma"/>
+</p>
+
+<p align="center">
+  <strong>Security Tools:</strong><br/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF7600?logo=burpsuite&logoColor=white&style=for-the-badge" alt="Burp Suite"/>
+  <img src="https://img.shields.io/badge/Nmap-000000?logo=nmap&logoColor=white&style=for-the-badge" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge" alt="Wireshark"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=t9q&show_icons=true&theme=dracula&rank_icon=github" alt="Alex's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t9q&layout=compact&theme=dracula" alt="Top Languages" />
+</p>
