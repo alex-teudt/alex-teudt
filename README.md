@@ -63,6 +63,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=t9q&show_icons=true&theme=dracula&rank_icon=github" alt="Alex's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t9q&layout=compact&theme=dracula" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alex-teudt&show_icons=true&theme=dracula&rank_icon=github" alt="Alex's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-teudt&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
