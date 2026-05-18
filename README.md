@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZyamxkcGVxeGluNDJlcTQ3bzEzajJyZTVmN2dnN216d2M4dXJudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif)" width="100"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZyamxkcGVxeGluNDJlcTQ3bzEzajJyZTVmN2dnN216d2M4dXJudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif" width="100"/>
   <h1>
     Hi there, I'm Alex Teudt
   </h1>
